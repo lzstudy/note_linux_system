@@ -7,8 +7,18 @@
 ==========================================
 
 .. toctree::
-   :maxdepth: 3
+   :caption: 配置
    :titlesonly:
+   :maxdepth: 1
+   :glob:
+
+   config/system/index
+   config/net/index
+
+.. toctree::
+   :caption: 其他
+   :titlesonly:
+   :maxdepth: 1
 
    misc/index
 
