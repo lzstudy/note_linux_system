@@ -16,6 +16,14 @@
    config/net/index
 
 .. toctree::
+   :caption: 配置
+   :titlesonly:
+   :maxdepth: 1
+   :glob:
+
+   info/system/index
+
+.. toctree::
    :caption: 其他
    :titlesonly:
    :maxdepth: 1
