@@ -1,8 +1,7 @@
-系统笔记
+性能测试
 ========================================
 
 .. toctree::
    :maxdepth: 3
 
-   perf_check/index
-   index_root
+   iospeed

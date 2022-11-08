@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'note_linux_system'
-copyright = '2022, http://120.48.82.24/'
+copyright = '2022, 子午笔记 - linux系统'
 author = '子午'
 
 # The full version, including alpha/beta/rc tags
@@ -64,5 +64,5 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_css_files = [
-	"css/my_theme.css",
+#	"css/my_theme.css",
 ]
