@@ -1,9 +1,8 @@
-系统笔记
+系统信息
 ========================================
 
 .. toctree::
    :maxdepth: 3
 
-   info/index
-   perf_check/index
-   index_root
+   system/index
+   driver
