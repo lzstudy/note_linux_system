@@ -1,9 +1,8 @@
-系统笔记
+系统配置
 ========================================
 
 .. toctree::
    :maxdepth: 3
 
-   info/index
-   config/index
-   perf_check/index
+   system/index
+   net/index

@@ -4,5 +4,5 @@
 .. toctree::
    :maxdepth: 3
 
-   system/index
+   base
    driver
