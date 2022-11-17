@@ -11,7 +11,7 @@ X表示的是参数个数...
 1.1 系统调用宏展开过程
 **********************
 
-.. code:: c
+.. code:: shell
 
    #define SYSCALL_DEFINEX(name, ...)   SYSCALL_DEFINEX(1, _##name, __VA_ARG__)
       #define SYSCALL_DEFINEX(x, sname, ...)   __SYSCALL_DEFINEX(x, sname, __VA_ARGS__)
