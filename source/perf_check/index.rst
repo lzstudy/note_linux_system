@@ -6,6 +6,7 @@
 
    base
    system
+   thread
    func
    latency
    lock
